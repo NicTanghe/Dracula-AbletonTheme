@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Ableton10](https://www.ableton.com/en/trial/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for Ableton10](https://www.ableton.com/en/trial/)
 
 ![Screenshot](./screenshot.png)
 
