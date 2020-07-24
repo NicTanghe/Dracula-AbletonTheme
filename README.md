@@ -2,7 +2,7 @@
 
 > A dark theme for Ableton10](https://www.ableton.com)
 
-![Screenshot](./screenshot.png)
+![Screenshot](./DraculaAbleton.png)
 
 ## Install
 
