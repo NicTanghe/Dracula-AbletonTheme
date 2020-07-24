@@ -1,12 +1,14 @@
-# Dracula for [Ableton10](https://www.ableton.com/en/trial/)
+# Dracula for [Ableton10](https://www.ableton.com)
 
-> A dark theme for Ableton10](https://www.ableton.com/en/trial/)
+> A dark theme for Ableton10](https://www.ableton.com)
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/x](https://draculatheme.com/AbletonTheme).
+
+ put .ask file in .C:\ProgramData\Ableton\Live 10 Suite\Resources\Themes
 
 ## Team
 
